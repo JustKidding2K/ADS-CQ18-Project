@@ -6,6 +6,10 @@
 - 18120212 - Huỳnh Long Nam
 - 18120438 - Nguyễn Đình Lộc
 
+## Kaggle gốc:
+
+https://www.kaggle.com/code/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed
+
 ## Colab làm việc:
 
 https://colab.research.google.com/drive/1rXQsO-E1CZFtNFTnWXWZXf4ejHLim6gb?usp=sharing
