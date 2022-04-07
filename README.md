@@ -6,11 +6,15 @@
 - 18120212 - Huỳnh Long Nam
 - 18120438 - Nguyễn Đình Lộc
 
+## Kaggle cuộc thi:
+
+[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
 ## Kaggle gốc:
 
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques?fbclid=IwAR05H0D-RMSzMPZCuEEpKd2sDAzmzck2SqPpmaIX6L7pMdesKvW0I1uG09I
+[#1 House Prices Solution [top 1%]](https://www.kaggle.com/code/jesucristo/1-house-prices-solution-top-1/notebook)
 
 ## Colab làm việc:
 
-https://colab.research.google.com/drive/1rXQsO-E1CZFtNFTnWXWZXf4ejHLim6gb?usp=sharing
+[ADS-CQ18-Project Nhóm 6](https://colab.research.google.com/drive/1rXQsO-E1CZFtNFTnWXWZXf4ejHLim6gb)
 
