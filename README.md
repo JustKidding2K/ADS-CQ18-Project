@@ -8,7 +8,7 @@
 
 ## Kaggle gốc:
 
-https://www.kaggle.com/code/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques?fbclid=IwAR05H0D-RMSzMPZCuEEpKd2sDAzmzck2SqPpmaIX6L7pMdesKvW0I1uG09I
 
 ## Colab làm việc:
 
